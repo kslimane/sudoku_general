@@ -19,12 +19,15 @@ Can parse strings and files from most common formats and displays the sudoku in 
     Displays a Sudoku in an easy to read format
 #### public static Sudoku Parse(string sudokuAsString)
     Parses a single Sudoku
-    "sudokuAsString" :the string representing the sudoku
+    "sudokuAsString" : the string representing the sudoku
     Returns : the parsed sudoku
 #### public List<Sudoku> ParseFile(string fileName)
     Parses a file with one or several sudokus
     Returns : the list of parsed sudokus
-    
+#### public static List<Sudoku> ParseMulti(string[] lines)
+    Parses a list of lines into a list of sudoku, accounting for most cases usually encountered
+    "lines" : the lines of string to parse
+    returns : the list of parsed sudokus
     
 
  
