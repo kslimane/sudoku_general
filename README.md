@@ -4,9 +4,8 @@ Plop
 
 La DLL est dans /libs. 
 
-Pour l'instant c'est une solution vide. Dans l'absolu l'idee serait surement que les gens la clonent et implementent leur code
-dans un fichier par groupe type 'Sudoku_nomdegroupe.cs'.
-Ou dans des projets distincts en fait.
+Vous pouvez clone si vous avez les droits ou fork et pull request.
+Il serait aimable que vous ajoutiez l'interface ISudokuSolver a votre classe gerant la resolution.
 
 
 ### La classe Sudoku
