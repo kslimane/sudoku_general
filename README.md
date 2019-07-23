@@ -17,4 +17,14 @@ Can parse strings and files from most common formats and displays the sudoku in 
 #### public Sudoku(IEnumerable<int> cells)
 #### public override string ToString()
     Displays a Sudoku in an easy to read format
+#### public static Sudoku Parse(string sudokuAsString)
+    Parses a single Sudoku
+    "sudokuAsString" :the string representing the sudoku
+    Returns : the parsed sudoku
+#### public List<Sudoku> ParseFile(string fileName)
+    Parses a file with one or several sudokus
+    Returns : the list of parsed sudokus
+    
+    
+
  
