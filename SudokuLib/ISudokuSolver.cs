@@ -10,13 +10,5 @@ namespace SudokuLib
     {
         Sudoku Solve(Sudoku sudoku);
     }
-
-    public class SudokuSolver : ISudokuSolver
-    {
-        public Sudoku Solve(Sudoku s)
-        {
-            return new Sudoku();
-        }
-    }
 }
 

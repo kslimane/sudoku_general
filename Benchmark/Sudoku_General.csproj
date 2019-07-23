@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SudokuLib\SudokuLib.csproj">
+      <Project>{710bfabc-94df-4585-b536-45e7f145cb73}</Project>
+      <Name>SudokuLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
