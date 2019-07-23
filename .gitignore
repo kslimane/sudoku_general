@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Sudoku_General/v16
+/Benchmark/obj/Debug
+/Benchmark/.gitignore
+/SudokuLib/.vs/SudokuLib/v16
+/SudokuLib/bin/Debug
+/SudokuLib/obj/Debug
+/SudokuLib/SudokuLib.sln
