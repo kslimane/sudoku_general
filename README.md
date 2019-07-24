@@ -7,6 +7,10 @@ La DLL est dans /libs.
 Vous pouvez clone si vous avez les droits ou fork et pull request.
 Il serait aimable que vous ajoutiez l'interface ISudokuSolver a votre classe gerant la resolution.
 
+## Organisation
+
+>> Mettez votre projet dans un dossier bien nomme a la racine du repo.
+
 
 ### La classe Sudoku
 
