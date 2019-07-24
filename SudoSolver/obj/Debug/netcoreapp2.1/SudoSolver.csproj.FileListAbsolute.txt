@@ -1,0 +1,13 @@
+C:\Users\Sven\source\repos\SudoSolver\bin\Debug\netcoreapp2.1\SudoSolver.deps.json
+C:\Users\Sven\source\repos\SudoSolver\bin\Debug\netcoreapp2.1\SudoSolver.runtimeconfig.json
+C:\Users\Sven\source\repos\SudoSolver\bin\Debug\netcoreapp2.1\SudoSolver.runtimeconfig.dev.json
+C:\Users\Sven\source\repos\SudoSolver\bin\Debug\netcoreapp2.1\SudoSolver.dll
+C:\Users\Sven\source\repos\SudoSolver\bin\Debug\netcoreapp2.1\SudoSolver.pdb
+C:\Users\Sven\source\repos\SudoSolver\obj\Debug\netcoreapp2.1\SudoSolver.csprojAssemblyReference.cache
+C:\Users\Sven\source\repos\SudoSolver\obj\Debug\netcoreapp2.1\SudoSolver.csproj.CoreCompileInputs.cache
+C:\Users\Sven\source\repos\SudoSolver\obj\Debug\netcoreapp2.1\SudoSolver.AssemblyInfoInputs.cache
+C:\Users\Sven\source\repos\SudoSolver\obj\Debug\netcoreapp2.1\SudoSolver.AssemblyInfo.cs
+C:\Users\Sven\source\repos\SudoSolver\obj\Debug\netcoreapp2.1\SudoSolver.dll
+C:\Users\Sven\source\repos\SudoSolver\obj\Debug\netcoreapp2.1\SudoSolver.pdb
+C:\Users\Sven\source\repos\SudoSolver\bin\Debug\netcoreapp2.1\SudokuLib.dll
+C:\Users\Sven\source\repos\SudoSolver\obj\Debug\netcoreapp2.1\SudoSolver.csproj.CopyComplete

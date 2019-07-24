@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "060c4960b18708471f057869f3edbf032f8844a3"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "SudoSolver/1.0.0": {
+        "dependencies": {
+          "DlxLib": "1.3.0",
+          "SudokuLib": "1.0.0.0"
+        },
+        "runtime": {
+          "SudoSolver.dll": {}
+        }
+      },
+      "DlxLib/1.3.0": {
+        "runtime": {
+          "lib/net40/DlxLib.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          }
+        }
+      },
+      "SudokuLib/1.0.0.0": {
+        "runtime": {
+          "SudokuLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SudoSolver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DlxLib/1.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ct/tDY2nkuYRw7UrVQpp3/Hc8C4mkqv7SzTa+SfZXZgSSkEjoy/dQfbxvF+FoD6INelffrkhlTiqwt7jVn2ILw==",
+      "path": "dlxlib/1.3.0",
+      "hashPath": "dlxlib.1.3.0.nupkg.sha512"
+    },
+    "SudokuLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
