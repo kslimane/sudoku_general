@@ -9,7 +9,7 @@ Il serait aimable que vous ajoutiez l'interface ISudokuSolver a votre classe ger
 
 ## Organisation
 
->> Mettez votre projet dans un dossier bien nomme a la racine du repo.
+Mettez votre projet dans un dossier bien nomme a la racine du repo.
 
 
 ### La classe Sudoku
